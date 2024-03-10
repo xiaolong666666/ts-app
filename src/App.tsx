@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import './components/trail'
+// import './components/trail'
+import './components/countDown'
 import './App.css';
 
 function App() {
