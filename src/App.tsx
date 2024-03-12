@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 // import './components/trail'
-import './components/countDown'
+// import './components/countDown'
+import Tree from './components/tree'
 import './App.css';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Tree />
     </div>
   );
 }
